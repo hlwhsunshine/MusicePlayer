@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaPlayer/JavaPlayer.iml" filepath="$PROJECT_DIR$/JavaPlayer/JavaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicePlayer.iml" filepath="$PROJECT_DIR$/MusicePlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinplayer/kotlinplayer.iml" filepath="$PROJECT_DIR$/kotlinplayer/kotlinplayer.iml" />
+    </modules>
+  </component>
+</project>
